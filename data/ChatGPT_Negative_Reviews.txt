@@ -1,0 +1,99 @@
+﻿"Too expensive. Found a better toothpaste that works for less."\n
+"Not minty enough. Leaves a strange taste in my mouth."\n
+"Did not work for me. No relief from sensitivity whatsoever."\n
+"Irritated my gums. Switched to a different brand and no more issues."\n
+"Too thick and hard to spread. Takes forever to rinse off."\n
+"Leaves a weird film on teeth. Not satisfied with the results."\n
+"Not effective. Used for a week and noticed no difference."\n
+"Caused bad breath. Had to switch to a different toothpaste."\n
+"Messy and hard to clean. Will not be repurchasing."\n
+"Not as advertised. Did not reduce sensitivity as promised."\n
+"I was really disappointed with this toothpaste. It made my mouth feel super dry and uncomfortable. Had to switch back to my old toothpaste."\n
+"I've been using this toothpaste for weeks and my teeth are still just as sensitive as they were before. Doesn't seem to be doing anything to help."\n
+"I was hoping this toothpaste would help whiten my teeth, but I haven't noticed any difference. Kind of a waste of money, to be honest."\n
+"This toothpaste didn't work for me at all. I still have bad breath and my teeth don't feel any cleaner than before. Definitely won't be buying it again."\n
+"I was really disappointed with this toothpaste. It tasted weird and didn't leave my mouth feeling fresh. Definitely not worth the money."\n
+"I've been using this toothpaste for a while now and it hasn't done anything to improve my gum health. Really disappointed."\n
+"This toothpaste didn't work for me at all. It made my mouth feel weird and didn't seem to have any benefits. Waste of money."\n
+"I was hoping this toothpaste would help with my sensitivity, but it didn't do anything. Really disappointed."\n
+"This toothpaste doesn't seem to do anything. My mouth still feels dirty after using it. Won't be buying it again."\n
+"I've been using this toothpaste for a while and it doesn't seem to be doing anything. My teeth are still discolored and my breath is still bad. Not happy."\n
+"This toothpaste tastes weird and doesn't seem to work. I'm switching back to my old brand."\n
+"I was really hoping this toothpaste would help with my bad breath, but it didn't seem to make any difference. Disappointed."\n
+"This toothpaste made my mouth feel really dry and uncomfortable. I don't recommend it."\n
+"I've been using this toothpaste for a few weeks and haven't noticed any difference in my teeth or gums. Really disappointed."\n
+"This toothpaste doesn't seem to have any benefits. My mouth still feels dirty after using it. Don't waste your money."\n
+"I was hoping this toothpaste would help with my sensitivity, but it didn't do anything. Waste of money."\n
+"This toothpaste didn't work for me at all. It tasted weird and didn't leave my mouth feeling fresh. Won't be buying it again."\n
+"I've been using this toothpaste for over a month and it hasn't done anything to help with my sensitivity. Really disappointed."\n
+"This toothpaste doesn't seem to be doing anything. My teeth still feel dirty and my breath still smells bad. Not happy with it."\n
+"I was really hoping this toothpaste would help with my gum health, but I haven't noticed any improvement. Kind of a waste of money."\n
+"I was really disappointed with this toothpaste. It left a weird aftertaste in my mouth and didn't make my teeth feel any cleaner than my regular toothpaste."\n
+"This toothpaste made my teeth really sensitive and I had to stop using it after a few days."\n
+"I don't think this toothpaste is worth the price. It didn't do anything special for my teeth and there are other brands that work just as well for cheaper."\n
+"I found the consistency of this toothpaste to be too gritty and it didn't spread well on my toothbrush."\n
+"I didn't notice any difference in my teeth after using this toothpaste for a month. Waste of money."\n
+"The taste of this toothpaste is terrible. I couldn't even finish using the tube."\n
+"This toothpaste didn't help with my sensitivity at all. I was really disappointed."\n
+"I thought this toothpaste was supposed to whiten my teeth, but it didn't do anything. Waste of money."\n
+"This toothpaste made my gums feel really irritated. I had to switch back to my old brand."\n
+"The texture of this toothpaste is weird and it didn't leave my mouth feeling fresh."\n
+"I usually love Sensodyne toothpaste, but this one didn't do anything for my sensitivity. Disappointing."\n
+"This toothpaste tastes really chemically. I had to stop using it after a few days."\n
+"I found this toothpaste to be really drying. It made my mouth feel uncomfortable."\n
+"This toothpaste didn't do anything to freshen my breath. Disappointing."\n
+"The consistency of this toothpaste is too runny. It didn't feel like it was cleaning my teeth properly."\n
+"This toothpaste gave me a headache every time I used it. Not worth it."\n
+"I didn't notice any improvement in my sensitivity after using this toothpaste for a month. Waste of money."\n
+"This toothpaste has a really strange texture. It didn't feel like it was cleaning my teeth properly."\n
+"I didn't like the taste of this toothpaste at all. It was really unpleasant."\n
+"This toothpaste made my teeth feel really slimy after using it. Not a fan."\n
+"I was expecting more from this toothpaste. It didn't live up to my expectations."\n
+"This toothpaste is really expensive for what it is. I won't be buying it again."\n
+"I found the packaging of this toothpaste to be really difficult to use. It was hard to get the toothpaste out of the tube."\n
+"This toothpaste didn't help with my sensitivity at all. It was a waste of money."\n
+"I didn't like the smell of this toothpaste at all. It was really strong and overpowering."\n
+"I was expecting this toothpaste to be more effective for the price. It didn't make my teeth any whiter than my regular toothpaste."\n
+"I usually love this brand, but this particular toothpaste had a really strong flavor that I didn't like."\n
+"I was disappointed that this toothpaste didn't come in a larger size. It's too expensive to keep repurchasing."\n
+"I thought this toothpaste would have a nicer smell, but it actually has a really strong chemical scent that I don't like."\n
+"I was hoping this toothpaste would have a better texture, but it was really gritty and hard to spread on my toothbrush."\n
+"I tried this toothpaste because I wanted to try something new, but it ended up giving me canker sores. I won't be repurchasing."\n
+"This toothpaste is too minty for my taste. It made my mouth feel like it was on fire."\n
+"I bought this toothpaste because it said it had a whitening effect, but I didn't notice any difference in my teeth after using it for a month."\n
+"I was disappointed that this toothpaste didn't come in a flavor other than mint. I like variety in my toothpaste choices."\n
+"This toothpaste was too thick and hard to rinse out of my mouth. I didn't feel like my teeth were clean afterwards."\n
+"I found this toothpaste to be too expensive for what it is. There are cheaper brands that work just as well."\n
+"This toothpaste made my teeth feel really sensitive and I had to stop using it after a few days. It was too painful."\n
+"I was hoping this toothpaste would have a more natural flavor, but it tasted really artificial to me."\n
+"This toothpaste didn't foam up as much as I was expecting it to, and I didn't feel like my teeth were getting clean."\n
+"I was hoping this toothpaste would have a better aftertaste, but it left a weird taste in my mouth for hours afterwards."\n
+"This toothpaste was too sweet for my taste. I prefer a more minty flavor."\n
+"I was hoping this toothpaste would be more gentle on my sensitive teeth, but it ended up making them hurt even more."\n
+"I don't think this toothpaste is worth the price. It didn't do anything special for my teeth and there are other brands that work just as well for cheaper."\n
+"This toothpaste was too abrasive and it felt like it was scratching my teeth. I won't be using it again."\n
+"I was hoping this toothpaste would have a nicer packaging, but it looks really cheap and unappealing on my bathroom counter."\n
+"This toothpaste didn't make my breath feel any fresher than my regular toothpaste. It was a waste of money."\n
+"I was hoping this toothpaste would be more environmentally friendly, but it comes in a plastic tube that can't be recycled."\n
+"This toothpaste was too drying and it made my mouth feel really parched. I had to switch back to my old toothpaste."\n
+"I was disappointed that this toothpaste didn't come in a bigger variety of flavors. There are other brands that offer more choices."\n
+"This toothpaste was too expensive for what it is. I won't be repurchasing."\n
+"I wanted to give Sensodyne another try, but it just doesn't compare to my usual toothpaste, Colgate. The taste was off and it didn't leave my mouth feeling as fresh."\n
+"I've been using Crest for years, but thought I'd give Sensodyne a try. Unfortunately, it just doesn't clean my teeth as well as Crest and I didn't notice any difference in sensitivity."\n
+"As someone who has tried a lot of toothpaste brands, I have to say that Sensodyne doesn't measure up to Colgate. It left a weird film in my mouth and didn't seem to clean my teeth very well."\n
+"I had high hopes for Sensodyne, but it just didn't compare to my usual toothpaste, Crest. It didn't leave my mouth feeling as fresh and my teeth didn't feel as clean."\n
+"I've tried several toothpaste brands for sensitive teeth, but Sensodyne just isn't the best. I prefer Colgate because it leaves my mouth feeling fresh and my teeth feeling clean."\n
+"I usually use Crest, but decided to give Sensodyne a try. Unfortunately, I didn't like the taste and my mouth didn't feel as clean as it usually does with Crest."\n
+"I've heard good things about Sensodyne, but I just can't get past the taste. It doesn't compare to my usual toothpaste, Colgate."\n
+"Sensodyne didn't work for me, plain and simple. I prefer Crest because it leaves my mouth feeling clean and fresh."\n
+"I tried Sensodyne for a week and just couldn't get used to the taste. I'll be sticking with my usual toothpaste, Colgate."\n
+"I've been using Crest for years, and after trying Sensodyne, I have to say that it just doesn't compare. My mouth didn't feel as fresh and my teeth didn't feel as clean."\n
+"I prefer Colgate to Sensodyne. The taste is better and it cleans my teeth better."\n
+"Sensodyne just isn't for me. I'll be sticking with Crest because it leaves my mouth feeling fresh and my teeth feeling clean."\n
+"I've used several sensitive toothpaste brands, but Sensodyne just didn't work for me. I prefer Colgate because it leaves my mouth feeling fresher and my teeth feeling cleaner."\n
+"I tried Sensodyne for a week, but I just couldn't get over the taste. I'll be going back to my usual toothpaste, Crest."\n
+"I was hoping Sensodyne would work for me, but it just didn't compare to my usual toothpaste, Colgate. It didn't leave my mouth feeling as fresh and my teeth didn't feel as clean."\n
+"I've tried several brands of toothpaste for sensitive teeth, but Sensodyne just isn't my favorite. I prefer Crest because it leaves my mouth feeling fresh and my teeth feeling clean."\n
+"I've heard good things about Sensodyne, but it just didn't work for me. I'll be sticking with Colgate because it leaves my mouth feeling fresher and my teeth feeling cleaner."\n
+"I tried Sensodyne for a week, but it didn't live up to my expectations. I prefer Crest because it leaves my mouth feeling clean and fresh."\n
+"As someone who has tried a lot of toothpaste brands, I have to say that Sensodyne just isn't my favorite. I prefer Colgate because it leaves my mouth feeling fresher and my teeth feeling cleaner."\n
